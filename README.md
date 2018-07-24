@@ -1,6 +1,6 @@
 ## Kaymbu Online Progress Report
 
-Trouble viewing your Kaymbu Progress Report? Just copy the url from the failed page and then you will be able to view your child's progress report online.
+Trouble viewing your Kaymbu Progress Report? Just copy the url from the failed page into the text box bollow and then you will be able to view your child's progress report online.
 
 
 <input type="text" id="url" style="width: 100%; max-width: 800px;">
